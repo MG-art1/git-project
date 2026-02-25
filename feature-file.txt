@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Feature text file66
+=======
+Feature text file
+>>>>>>> new-feature
